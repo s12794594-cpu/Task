@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
+  // get email from user
   runApp(const MyApp());
 }
 // my class
