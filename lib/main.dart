@@ -5,6 +5,7 @@ void main() {
 }
 // my class
 class MyApp extends StatelessWidget {
+  // my new comment
   const MyApp({super.key});
 
   // This widget is the root of your application.
